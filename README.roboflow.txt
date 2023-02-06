@@ -1,8 +1,8 @@
 
-Avocado - v11 2023-02-06 10:20am
+Avocado - v12 2023-02-06 11:39am
 ==============================
 
-This dataset was exported via roboflow.com on February 6, 2023 at 3:21 AM GMT
+This dataset was exported via roboflow.com on February 6, 2023 at 4:39 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects

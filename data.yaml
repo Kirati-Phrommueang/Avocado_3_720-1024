@@ -8,6 +8,6 @@ names: ['Level1', 'Level2', 'Level3']
 roboflow:
   workspace: thammasat-university-bjbav
   project: avocado-m6ijw
-  version: 11
+  version: 12
   license: CC BY 4.0
-  url: https://universe.roboflow.com/thammasat-university-bjbav/avocado-m6ijw/dataset/11
+  url: https://universe.roboflow.com/thammasat-university-bjbav/avocado-m6ijw/dataset/12
